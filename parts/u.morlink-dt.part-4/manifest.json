@@ -1,0 +1,31 @@
+{
+  "id": "u.morlink-dt.part-4",
+  "name": "u.morlink-dt.demo-parts-4",
+  "category": "Equipment",
+  "geometry": {
+    "kind": "rig",
+    "links": [
+      {
+        "name": "body",
+        "shape": {
+          "kind": "box",
+          "size": [
+            0.6,
+            0.6,
+            0.6
+          ]
+        },
+        "offset": [
+          0,
+          0.3,
+          0
+        ]
+      }
+    ],
+    "joints": []
+  },
+  "sdk": {
+    "level": 17,
+    "of": "v2:547:ego4b7sz2q"
+  }
+}
